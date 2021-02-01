@@ -1,6 +1,7 @@
-<img href="./logo.png?raw=true" align="right"/>
+<img src="logo.png?raw=true" align="right"/>
 
 # Hunter's GitHub Profile
+Hi I'm Hunter! :wave: I like to build things!
 
 ```kotlin
 val hunter = Developer();
