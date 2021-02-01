@@ -1,4 +1,4 @@
-<img href="logo.png" align="right"/>
+<img href="./logo.png?raw=true" align="right"/>
 
 # Hunter's GitHub Profile
 
