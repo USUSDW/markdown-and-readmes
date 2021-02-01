@@ -2,9 +2,6 @@
 *By Hunter Henrichsen*
 
 ## Table of Contents
-
-- [Markdown and Readmes](#markdown-and-readmes)
-  * [Table of Contents](#table-of-contents)
   * [Introduction](#introduction)
   * [Basic Formatting](#basic-formatting)
     + [Inserting Code](#inserting-code)
@@ -16,7 +13,8 @@
     + [Images](#images)
     + [HTML Embedding](#html-embedding)
   * [Building Attractive Readmes](#building-attractive-readmes)
-  * [Good Utilities](#good-utilities)
+    + [Utilities](#utilities)
+  * [GitHub Profile Readme](#github-profile-readme)
 
 ## Introduction
 
