@@ -102,7 +102,7 @@ than Discord supported underscore), but I'd just end up creating
 | Discord, GitHub, Slack | `_`    | 1      | Italic        | `_Example_`   |
 | Discord                | `_`    | 2      | Underline     | `__Example__` |
 | GitHub                 | `_`    | 2      | Bold          | `__Example__` |
-| GitHub                 | `~`    | 2      | Strikethrough | `~~Example~~` |
+| GitHub, Discord        | `~`    | 2      | Strikethrough | `~~Example~~` |
 
 
 ## Rendered Markdown
